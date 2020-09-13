@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 🔭 I’m looking to collaborate on [FrozedClubDevelopment](https://github.com/FrozedClubDevelopment)
+- 🔭 I’m currently collaborate on [FrozedClubDevelopment](https://github.com/FrozedClubDevelopment)
 
 - 📫 How to reach me **ryzeon@frozed.club**
 
