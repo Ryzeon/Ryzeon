@@ -1,4 +1,4 @@
-<p align="center">Hi 👋, I'm Ryzeon </p>
+<p align="left">Hi 👋, I'm Ryzeon </p>
 
 - 🌱 I’m currently learning **Java**
 
