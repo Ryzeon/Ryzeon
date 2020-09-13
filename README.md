@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryzeon</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryzeon" alt="ryzeon" /> </p>
-
 - 🌱 I’m currently learning **Java**
 
 - 🔭 I’m looking to collaborate on [FrozedClubDevelopment](https://github.com/FrozedClubDevelopment)
