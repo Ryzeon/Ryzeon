@@ -15,11 +15,6 @@
 - 🔭 I’m currently collaborate on [FrozedClubDevelopment](https://github.com/FrozedClubDevelopment)
 
 - 📫 How to reach me **ryzeon@frozed.club**
-
-
-<p align="left"> 
-<img src="https://github-readme-stats.vercel.app/api?username=Ryzeon&show_icons=true&theme=radical&count_private=true" 
-</p>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ryzeon&show_icons=true&include_all_commits=true&theme=radical&count_private=true" alt="Ryzeon's github stats" />
