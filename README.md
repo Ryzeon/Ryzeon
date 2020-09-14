@@ -22,8 +22,7 @@
 </p>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ryzeon&layout=compactn&show_icons=true&theme=radical&count_private=true" 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ryzeon&show_icons=true&include_all_commits=true&theme=radical&count_private=true" alt="Ryzeon's github stats" />
 </a>
   
 <br />
