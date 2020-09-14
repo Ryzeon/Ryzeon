@@ -1,6 +1,12 @@
-<p align="left">
-Hi 👋, I'm Ryzeon 
-</p>
+### 👋, I'm Ryzeon
+
+<a href="https://twitter.com/ryzeon_">
+  <img align="left" alt="Ryzeon" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+
+<a href="https://frozed.club/discord">
+  <img align="left" alt="Ryzeon" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
 
 - 🌱 I’m currently learning **Java**
 
@@ -13,6 +19,3 @@ Hi 👋, I'm Ryzeon
 <img src="https://github-readme-stats.vercel.app/api?username=Ryzeon&show_icons=true&theme=radical&count_private=true" 
 </p>
   
-
-<a href="https://twitter.com/ryzeon_" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter!" height="30" width="30" />
-</a> 
