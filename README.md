@@ -8,6 +8,9 @@
   <img align="left" alt="Ryzeon" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
+<br />
+<br />
+
 - 🌱 I’m currently learning **Java**
 
 - 🔭 I’m currently collaborate on [FrozedClubDevelopment](https://github.com/FrozedClubDevelopment)
