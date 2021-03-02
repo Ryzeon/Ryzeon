@@ -17,7 +17,7 @@
 - 📫 How to reach me **ryzeon@frozed.club**
   
 <a href="https://github.com/ryzeon">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ryzeon&show_icons=true&include_all_commits=true&theme=radical&count_private=true" alt="Ryzeon's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ryzeon&show_icons=true&include_all_commits=false&theme=radical&count_private=true" alt="Ryzeon's github stats" />
 </a>
   
 <br />
