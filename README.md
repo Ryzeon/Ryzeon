@@ -1,5 +1,7 @@
 ### 👋, I'm Ryzeon
 
+<img alt="Custom badge" src="https://img.shields.io/endpoint?color=green&label=DISCORD&logo=discord&style=for-the-badge&url=https%3A%2F%2Fpastebin.com%2Fraw%2FutFANXpk">
+
 <a href="https://twitter.com/ryzeon_">
   <img align="left" alt="Ryzeon" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
