@@ -4,7 +4,7 @@
   <img align="left" alt="Ryzeon" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
-<a href="https://frozed.club/discord">
+<a href="https://discord.frozed.club">
   <img align="left" alt="Ryzeon" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
