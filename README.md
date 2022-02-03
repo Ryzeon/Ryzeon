@@ -18,7 +18,7 @@
 
 <p align="center">
     <a href="https://discord.com/users/411968391402749963" target="_blank" rel="nofollow">
-        <img src="https://lanyard-profile-readme.vercel.app/api/411968391402749963?&animated=true&borderRadius=30px&idleMessage=Siendo peruano :(" alt="Discord Presence" align="center">
+        <img src="https://lanyard-profile-readme.vercel.app/api/411968391402749963?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence" align="center">
     </a>
 </p>
 
