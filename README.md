@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Python and HTML**
 
-- 👯 I’m looking to collaborate on [FrozedClubDevelopment](github.com/FrozedClubDevelopment)
+- 👯 I’m currently collaborate on [FrozedClubDevelopment](github.com/FrozedClubDevelopment)
 
 - 📫 How to reach me **dev@ryzeon.me**
 
