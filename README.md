@@ -25,7 +25,7 @@
 <!-- <div> -->
 <p align="center">
 <a>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryzeon&show_icons=true&theme=radical&count_private=true&locale=en" alt="ryzeon" />
+<img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=ryzeon&show_icons=true&theme=radical&count_private=true&locale=en" alt="ryzeon" />
 </a>
 </p>
 
@@ -36,5 +36,5 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryzeon&show_icons=true&theme=radical&locale=en&layout=compact" alt="ryzeon" />
+<img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=ryzeon&show_icons=true&theme=radical&locale=en&layout=compact" alt="ryzeon" />
 </p>
