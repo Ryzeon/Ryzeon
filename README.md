@@ -5,7 +5,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **Java, Python and HTML**
+- 🌱 I’m currently learning **Firebase, Flutter**
 
 - 👯 I’m currently collaborate on [FrozedClubDevelopment](github.com/FrozedClubDevelopment)
 
