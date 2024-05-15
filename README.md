@@ -5,10 +5,8 @@
 
 <br>
 
-- 🌱 I’m currently learning **Firebase, Flutter**
-
-- 👯 I’m currently collaborate on [FrozedClubDevelopment](github.com/FrozedClubDevelopment)
-
+- 🌱 I’m a fullstack developer looking for job opportunities.
+- 👯 Currently studying Software Engineering at the UPC (3rd year)
 - 📫 How to reach me **dev@ryzeon.me**
 
 <h3 align="left">Languages and Tools:</h3>
