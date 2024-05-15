@@ -4,22 +4,29 @@
 <img alt="Custom badge" src="https://img.shields.io/endpoint?color=green&label=DISCORD&logo=discord&style=for-the-badge&url=https%3A%2F%2Fpastebin.com%2Fraw%2FutFANXpk">
 
 <br>
-
 - 🌱 I’m a fullstack developer looking for job opportunities.
 - 👯 Currently studying Software Engineering at the UPC (3rd year)
 - 📫 How to reach me **dev@ryzeon.me**
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages
+
 <p align="center">
   <a href="https://github.com/Ryzeon">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,docker,maven,gradle,bash,cpp,firebase,java,js,kotlin,nodejs,py,redis,mongodb,sql," />
+    <img src="https://skillicons.dev/icons?i=bash,cpp,css,dart,go,html,java,javascript,kotlin,php,python,swift,typescript,net" alt="Programming Languages" />
   </a>
 </p>
 
+## Tools
+
+<p align="center">
+  <a href="https://github.com/Ryzeon">
+    <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,clion,docker,dotnet,firebase,flask,flutter,git,github,githubactions,gitlab,gradle,linux,maven,mongodb,mysql,nginx,nodejs,npm,postgresql,redis,vscode" alt="Development Tools" />
+  </a>
+</p>
 <h3 align="left">Frameworks</h3>
 <p align="center">
   <a href="https://github.com/Ryzeon">
-    <img src="https://skillicons.dev/icons?i=flutter,flask,ktor,react,bootstrap,spring" />
+    <img src="https://skillicons.dev/icons?i=flutter,flask,ktor,react,bootstrap,spring,angular,vue,vite,tailwind" />
   </a>
 </p>
 
