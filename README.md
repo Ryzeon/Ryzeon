@@ -19,7 +19,7 @@
 - 📫 How to reach me: **dev@ryzeon.me**
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="100%" style="max-width: 800px;" />
 </p>
 
 ## 🚀 Currently Working On
