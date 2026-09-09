@@ -4,6 +4,9 @@
   <a href="https://ryzeon.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ryzeon.me-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://user-badge.committers.top/peru_private/Ryzeon" target="_blank">
+    <img src="https://user-badge.committers.top/peru_private/Ryzeon.svg" alt="Committers Top Badge" />
+  </a>
   <a href="https://twitter.com/ryzeon_" target="blank">
     <img src="https://img.shields.io/twitter/follow/ryzeon_?logo=twitter&style=for-the-badge" alt="ryzeon_" />
   </a>
@@ -100,5 +103,4 @@
   <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/Ryzeon/Ryzeon/output/pacman-contribution-graph.svg">
 </picture>
 </p>
-
 
